@@ -32,6 +32,15 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Blog",
+        "groups": [
+          {
+            "group": "Blog",
+            "pages": ["blog/index"]
+          }
+        ]
       }
     ],
     "global": {
