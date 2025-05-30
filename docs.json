@@ -15,11 +15,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": [
-              "index",
-              "guides/getting-started",
-              "guides/faq"
-            ]
+            "pages": ["index", "guides/getting-started", "guides/faq"]
           }
         ]
       },
@@ -35,7 +31,6 @@
               "legal/ai-content"
             ]
           }
-          
         ]
       }
     ],
