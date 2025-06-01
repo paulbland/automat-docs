@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Automat Studio Documentation",
+  "name": "Automat Studio",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#00baff",
     "light": "#00baff",
     "dark": "#00baff"
   },
@@ -15,12 +15,18 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["index", "guides/getting-started", "guides/faq"]
+            "pages": [
+              "index",
+              "guides/getting-started",
+              "guides/models",
+              "guides/faq"
+            ]
           }
         ]
       },
       {
         "tab": "Legal",
+        "icon": "flag",
         "groups": [
           {
             "group": "Legal",
@@ -57,7 +63,7 @@
         },
         {
           "anchor": "Blog",
-          "href": "https://automatstudio.com/blog",
+          "href": "https://docs.automatstudio.com/blog",
           "icon": "newspaper"
         }
       ]
